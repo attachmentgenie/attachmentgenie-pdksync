@@ -1,0 +1,4 @@
+---
+create_pr_against: 'master'
+git_base_uri: 'git@github.com'
+namespace: 'attachmentgenie'

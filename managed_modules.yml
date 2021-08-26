@@ -1,0 +1,10 @@
+---
+- attachmentgenie-example
+- attachmentgenie-loki
+- attachmentgenie-mailhog
+- attachmentgenie-profiles
+- attachmentgenie-roles
+- attachmentgenie-ssh
+- attachmentgenie-statping
+- attachmentgenie-tempo
+- attachmentgenie-traefik2

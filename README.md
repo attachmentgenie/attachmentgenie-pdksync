@@ -13,6 +13,10 @@ warning: this is a destructive action, this process will remove and recheckout a
 
     bundle exec rake pdksync
 
+## Bump minial puppet version required
+
+    bundle exec rake 'pdksync:update_requirements[puppet,version_requirement,>= 6.21.0 < 8.0.0]'
+
 ## Commit all local changes
 
     bundle exec rake 'git:create_commit[master,"Applying trivial change"]'

@@ -1,5 +1,7 @@
 ---
+- attachmentgenie-boundary
 - attachmentgenie-example
+- attachmentgenie-grafana_agent
 - attachmentgenie-loki
 - attachmentgenie-mailhog
 - attachmentgenie-profiles
@@ -8,3 +10,4 @@
 - attachmentgenie-statping
 - attachmentgenie-tempo
 - attachmentgenie-traefik2
+- attachmentgenie-waypoint

@@ -4,10 +4,10 @@
 - attachmentgenie-grafana_agent
 - attachmentgenie-loki
 - attachmentgenie-mailhog
+- attachmentgenie-mimir
+- attachmentgenie-otel_collector
 - attachmentgenie-profiles
 - attachmentgenie-roles
-- attachmentgenie-ssh
-- attachmentgenie-statping
 - attachmentgenie-tempo
 - attachmentgenie-traefik2
 - attachmentgenie-waypoint

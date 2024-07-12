@@ -1,4 +1,6 @@
 ---
 create_pr_against: 'master'
 git_base_uri: 'git@github.com'
+module_is_authoritive: false
 namespace: 'attachmentgenie'
+pdk_templates_ref: 2.7.2

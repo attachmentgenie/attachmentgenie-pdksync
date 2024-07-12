@@ -5,6 +5,7 @@
 - attachmentgenie-mailhog
 - attachmentgenie-mimir
 - attachmentgenie-profiles
+- attachmentgenie-puppet_dynamodb_otp
 - attachmentgenie-roles
 - attachmentgenie-tempo
 - attachmentgenie-traefik2
